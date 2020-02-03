@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "type": "send",
+      "title": "Buying Lunch",
+      "destinationAccount": "Ok Marimba",
+      "amount": 20.99,
+      "date": "3 Feb"
+    },
+    {
+      "id": 2,
+      "type": "receive",
+      "title": "Debt Paymebt",
+      sourceAccount: "Nyasha Chikobvore",
+      "amount": 210.99,
+      "date": "3 Feb"
+    },
+    {
+      "id": 3,
+      "type": "send",
+      "title": "Bought hennesy",
+      "destinationAccount": "Ok Marimba",
+      "amount": 999.99,
+      "date": "3 Feb"
+    },
+    {
+      "id": 4,
+      "type": "send",
+      "title": "Bought Fuel",
+      "destinationAccount": "Puma",
+      "amount": 1289.99,
+      "date": "3 Feb"
+    },
+    {
+      "id": 5,
+      "type": "receive",
+      "title": "Gift",
+      sourceAccount: "Ganja Bae",
+      "amount": 270.39,
+      "date": "3 Feb"
+    },
+    {
+      "id": 6,
+      "type": "send",
+      "title": "Buying Breakfast",
+      "destinationAccount": "Procline Investments",
+      "amount": 20.99,
+      "date": "3 Feb"
+    }
+  ]
+}
