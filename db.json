@@ -12,7 +12,7 @@
       "id": 2,
       "type": "receive",
       "title": "Debt Paymebt",
-      sourceAccount: "Nyasha Chikobvore",
+      "sourceAccount": "Nyasha Chikobvore",
       "amount": 210.99,
       "date": "3 Feb"
     },
@@ -36,7 +36,7 @@
       "id": 5,
       "type": "receive",
       "title": "Gift",
-      sourceAccount: "Ganja Bae",
+      "sourceAccount": "Ganja Bae",
       "amount": 270.39,
       "date": "3 Feb"
     },
